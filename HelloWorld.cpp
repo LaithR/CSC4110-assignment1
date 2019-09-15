@@ -1,5 +1,6 @@
 // Simple C++ program to display "Hello World" 
 // Header file for input output functions 
+// Author: Laith Rafidi <GS6265@wayne.edu>
 #include<iostream>  
   
 using namespace std; 
